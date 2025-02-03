@@ -1,4 +1,4 @@
-# BrainStation Final (Capstone) Data Science Project
+# Capstone Data Science Project
 
 The goal of my project was to detect fraudulent credit card transactions using machine learning models.
 
